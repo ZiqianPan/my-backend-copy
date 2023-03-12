@@ -9,7 +9,9 @@ CREATE TABLE students (
     school varchar(255),
     email varchar(255),
     pic text,
-    skill varchar(255)
+    skill varchar(255),
+    latitude decimal(8,6),
+    longitude decimal(9,6)
 );
 
 CREATE TABLE grades (
