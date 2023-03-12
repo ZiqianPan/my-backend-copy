@@ -1,4 +1,4 @@
-INSERT INTO students (city, company, email, first_name, last_name, pic, skill)
+INSERT INTO students (city, school, email, first_name, last_name, pic, skill)
     VALUES
     ('Fushë-Muhurr', 'Yadel', 'iorton0@imdb.com', 'Ingaberg', 'Orton', 'https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg', 'Oracle'), 
 	('Sanghan', 'Avamm', 'cboards1@weibo.com', 'Clarke', 'Boards', 'https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg', 'Sports'), 
