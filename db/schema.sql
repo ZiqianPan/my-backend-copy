@@ -6,7 +6,7 @@ CREATE TABLE students (
     first_name varchar(255),
     last_name varchar(255),
     city varchar(255),
-    company varchar(255),
+    school varchar(255),
     email varchar(255),
     pic text,
     skill varchar(255)
